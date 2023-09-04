@@ -33,14 +33,3 @@ else:
 
 
 
-
-
-
-# n = int(input())
-# a = list(map(int, input().split()))
-# list = a[n] + list() + a[0]
-# x = a[0]+a[1]+a[2]
-# for i in range (n-1, n):
-#     if (a[i-2]+a[i-1]+a[i] > x):
-#         x =a[i-2]+a[i-1]+a[i]
-#         print(x)
